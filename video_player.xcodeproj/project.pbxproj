@@ -16,6 +16,7 @@
 		1E66236F2A4EF6E500125158 /* video_playerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E66236E2A4EF6E500125158 /* video_playerTests.swift */; };
 		1E6623792A4EF6E500125158 /* video_playerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E6623782A4EF6E500125158 /* video_playerUITests.swift */; };
 		1E66237B2A4EF6E500125158 /* video_playerUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E66237A2A4EF6E500125158 /* video_playerUITestsLaunchTests.swift */; };
+		1E6623882A57A63E00125158 /* pexels-mart-production-7565438 (1080p).mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 1E6623872A57A63E00125158 /* pexels-mart-production-7565438 (1080p).mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		1E6623742A4EF6E500125158 /* video_playerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = video_playerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1E6623782A4EF6E500125158 /* video_playerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = video_playerUITests.swift; sourceTree = "<group>"; };
 		1E66237A2A4EF6E500125158 /* video_playerUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = video_playerUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		1E6623872A57A63E00125158 /* pexels-mart-production-7565438 (1080p).mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "pexels-mart-production-7565438 (1080p).mp4"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				1E66235D2A4EF6E400125158 /* Main.storyboard */,
 				1E6623602A4EF6E500125158 /* Assets.xcassets */,
 				1E6623622A4EF6E500125158 /* LaunchScreen.storyboard */,
+				1E6623872A57A63E00125158 /* pexels-mart-production-7565438 (1080p).mp4 */,
 				1E6623652A4EF6E500125158 /* Info.plist */,
 			);
 			path = video_player;
@@ -231,6 +234,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1E6623882A57A63E00125158 /* pexels-mart-production-7565438 (1080p).mp4 in Resources */,
 				1E6623642A4EF6E500125158 /* LaunchScreen.storyboard in Resources */,
 				1E6623612A4EF6E500125158 /* Assets.xcassets in Resources */,
 				1E66235F2A4EF6E400125158 /* Main.storyboard in Resources */,
